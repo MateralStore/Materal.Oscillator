@@ -58,7 +58,7 @@ namespace Materal.Oscillator.Abstractions
         public static async Task<T> DeserializationAsync<T>(string typeName, string jsonData, IServiceProvider serviceProvider)
             where T : IData
         {
-            Type type = typeName.GetTypeByTypeFullName<T>() ?? throw new OscillatorException($"获取类型失败:{typeName}:{typeof(T).FullName}");
+            Type type = TypeHelper.GetTypeByTypeFullName<T>(typeName) ?? throw new OscillatorException($"获取类型失败:{typeName}:{typeof(T).FullName}");
             T result = type.Instantiation<T>(serviceProvider);
             await result.DeserializationAsync(jsonData, serviceProvider);
             return result;
