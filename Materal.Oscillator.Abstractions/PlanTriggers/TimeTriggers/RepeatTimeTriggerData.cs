@@ -1,4 +1,6 @@
-﻿namespace Materal.Oscillator.Abstractions.PlanTriggers.TimeTriggers
+﻿using Materal.Utils.Extensions;
+
+namespace Materal.Oscillator.Abstractions.PlanTriggers.TimeTriggers
 {
     /// <summary>
     /// 重复执行时间触发器数据
