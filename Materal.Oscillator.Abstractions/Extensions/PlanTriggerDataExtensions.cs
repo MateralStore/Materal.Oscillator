@@ -1,4 +1,4 @@
-﻿using Materal.Oscillator.Abstractions.PlanTriggers;
+using Materal.Oscillator.Abstractions.PlanTriggers;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Materal.Oscillator.Abstractions.Extensions

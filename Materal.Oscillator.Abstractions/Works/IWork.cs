@@ -1,4 +1,4 @@
-﻿namespace Materal.Oscillator.Abstractions.Works
+namespace Materal.Oscillator.Abstractions.Works
 {
     /// <summary>
     /// 任务

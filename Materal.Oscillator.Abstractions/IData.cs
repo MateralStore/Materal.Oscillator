@@ -1,4 +1,4 @@
-﻿using Materal.Utils.Helpers;
+using Materal.Utils.Helpers;
 using Newtonsoft.Json.Linq;
 
 namespace Materal.Oscillator.Abstractions

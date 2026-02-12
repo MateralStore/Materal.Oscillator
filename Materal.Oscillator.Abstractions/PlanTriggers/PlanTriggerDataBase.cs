@@ -1,4 +1,4 @@
-﻿
+
 namespace Materal.Oscillator.Abstractions.PlanTriggers
 {
     /// <summary>

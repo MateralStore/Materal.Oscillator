@@ -1,4 +1,4 @@
-﻿namespace Materal.Oscillator
+namespace Materal.Oscillator
 {
     /// <summary>
     /// Oscillator选项

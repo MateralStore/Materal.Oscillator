@@ -1,4 +1,4 @@
-﻿using Materal.Oscillator.Abstractions.PlanTriggers.TimeTriggers;
+using Materal.Oscillator.Abstractions.PlanTriggers.TimeTriggers;
 
 namespace Materal.Oscillator.Abstractions.PlanTriggers.DateTriggers
 {

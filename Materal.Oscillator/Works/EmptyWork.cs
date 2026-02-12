@@ -1,4 +1,4 @@
-﻿using Materal.Oscillator.Abstractions.Works;
+using Materal.Oscillator.Abstractions.Works;
 
 namespace Materal.Oscillator.Works
 {

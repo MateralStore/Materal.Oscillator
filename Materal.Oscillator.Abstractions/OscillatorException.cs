@@ -1,4 +1,4 @@
-﻿namespace Materal.Oscillator.Abstractions
+namespace Materal.Oscillator.Abstractions
 {
     /// <summary>
     /// Oscillator异常

@@ -1,4 +1,4 @@
-﻿using Materal.Oscillator.Abstractions.Oscillators;
+using Materal.Oscillator.Abstractions.Oscillators;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Materal.Oscillator.Abstractions.Extensions

@@ -1,4 +1,4 @@
-﻿namespace Materal.Oscillator.Abstractions.QuartZExtend
+namespace Materal.Oscillator.Abstractions.QuartZExtend
 {
     /// <summary>
     /// 调度器触发器构建扩展

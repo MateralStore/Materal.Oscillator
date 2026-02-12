@@ -1,4 +1,4 @@
-﻿using Materal.Oscillator.Abstractions.PlanTriggers;
+using Materal.Oscillator.Abstractions.PlanTriggers;
 using Quartz.Impl.Triggers;
 
 namespace Materal.Oscillator.Abstractions.QuartZExtend

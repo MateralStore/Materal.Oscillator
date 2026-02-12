@@ -1,4 +1,4 @@
-﻿namespace Materal.Oscillator.Abstractions.Oscillators
+namespace Materal.Oscillator.Abstractions.Oscillators
 {
     /// <summary>
     /// 默认调度器数据

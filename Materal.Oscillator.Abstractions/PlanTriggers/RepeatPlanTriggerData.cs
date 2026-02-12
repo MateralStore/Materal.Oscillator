@@ -1,4 +1,4 @@
-﻿using Materal.Oscillator.Abstractions.PlanTriggers.DateTriggers;
+using Materal.Oscillator.Abstractions.PlanTriggers.DateTriggers;
 using Materal.Oscillator.Abstractions.PlanTriggers.TimeTriggers;
 using Newtonsoft.Json.Linq;
 

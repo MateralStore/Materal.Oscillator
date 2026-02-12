@@ -1,4 +1,4 @@
-﻿namespace Materal.Oscillator.Abstractions.PlanTriggers.TimeTriggers
+namespace Materal.Oscillator.Abstractions.PlanTriggers.TimeTriggers
 {
     /// <summary>
     /// 时间触发器基类

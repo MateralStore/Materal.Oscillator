@@ -1,4 +1,4 @@
-﻿namespace Materal.Oscillator.Abstractions.PlanTriggers
+namespace Materal.Oscillator.Abstractions.PlanTriggers
 {
     /// <summary>
     /// 立即执行计划触发器数据
